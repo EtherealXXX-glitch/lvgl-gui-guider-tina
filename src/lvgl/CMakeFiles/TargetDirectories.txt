@@ -1,0 +1,9 @@
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lvgl/CMakeFiles/install/strip.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lvgl/CMakeFiles/install/local.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lvgl/CMakeFiles/install.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lvgl/CMakeFiles/list_install_components.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lvgl/CMakeFiles/rebuild_cache.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lvgl/CMakeFiles/lvgl_demos.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lvgl/CMakeFiles/edit_cache.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lvgl/CMakeFiles/lvgl_examples.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lvgl/CMakeFiles/lvgl.dir

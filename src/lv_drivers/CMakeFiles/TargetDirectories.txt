@@ -1,0 +1,7 @@
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lv_drivers/CMakeFiles/install/local.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lv_drivers/CMakeFiles/install.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lv_drivers/CMakeFiles/list_install_components.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lv_drivers/CMakeFiles/rebuild_cache.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lv_drivers/CMakeFiles/edit_cache.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lv_drivers/CMakeFiles/install/strip.dir
+/home/rpdzkj/fifth/wjy/linux/t113-i-linux/lvgl8-tina/lv_drivers/CMakeFiles/lv_drivers.dir
