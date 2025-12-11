@@ -1,0 +1,28 @@
+# Build output
+build/
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.map
+
+# LVGL generated folders
+generated/
+*.pyc
+
+# GUI Guider caches
+*.ini
+*.userdata
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VSCode
+.vscode/
+
+# Backup
+*~
