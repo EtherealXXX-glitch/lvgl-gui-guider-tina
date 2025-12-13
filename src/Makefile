@@ -2,7 +2,8 @@
 CC := /home/leon/Desktop/t113-linux/brandy/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-gcc
 
 # CFLAGS 加入 SDK 提供的架构选项（适用于 ARMv7-A）
-CFLAGS := -Wall -I. -I./lvgl -I./lvgl/src -I./lv_drivers -I./generated -I./custom -march=armv7-a
+CFLAGS := -Wall -I. -I./lvgl -I./lvgl/src -I./lv_drivers -I./generated -I./custom -march=armv7-a -I/home/leon/Desktop/t113-linux/platform/apps/lvgl8-tina/ui2/src/lvgl/src/extra/widgets/textprogress
+
 
 # LVGL 核心模块
 LVGL_CORE   := $(wildcard ./lvgl/src/core/*.c)
@@ -16,8 +17,8 @@ LVGL_WIDGET := $(wildcard ./lvgl/src/widgets/*.c)
 LVGL_EXTRA  := $(filter-out ./lvgl/src/extra/layouts/*/*.c, \
                 $(wildcard ./lvgl/src/extra/*/*.c)) \
                $(wildcard ./lvgl/src/extra/*/*/*.c) \
-               ./lvgl/src/extra/lv_extra.c
-
+               ./lvgl/src/extra/lv_extra.c\
+               ./lvgl/src/extra/widgets/textprogress/lv_textprogress.c
 LVGL_THEME  := $(wildcard ./lvgl/src/themes/*/*.c)
 
 LVGL_FONTS := $(wildcard ./generated/guider_fonts/*.c) \

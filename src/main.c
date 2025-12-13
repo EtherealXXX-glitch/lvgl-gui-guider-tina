@@ -21,8 +21,8 @@ static lv_obj_t *canvas;              // 定义一个画布对象指针
 
 // 打印触摸设备占用信息
 void print_touch_pid(void) {
-    printf("当前 /dev/input/event6 被以下进程占用:\n");
-    system("lsof /dev/input/event6");
+    printf("当前 /dev/input/event2 被以下进程占用:\n");
+    system("lsof /dev/input/event2");
 }
 
 int main(int argc, char *argv[]) {
